@@ -1,0 +1,405 @@
+64.124.8.0/24 # lfd: (NETBLOCK) 64.124.8.0/24 (US/United States/Arizona/Chandler/-/[AS36321 CSTL]) has had more than 4 blocks in the last 604800 secs - Sat Jul 16 18:32:41 2022
+180.178.40.242 # BFM: mod_security2=60 - Sun Sep 18 14:10:20 2022
+185.213.175.12 # lfd: (mod_security) mod_security (id:920350) triggered by 185.213.175.12 (ES/Spain/-/-/-/[AS41608 NextGenWebs, S.L.]): 5 in the last 3600 secs - Sun Sep 18 17:55:24 2022
+95.181.238.88 # lfd: (mod_security) mod_security (id:1100000) triggered by 95.181.238.88 (BS/Bahamas/New Providence District/Nassau/-/[AS9009 M247 Ltd]): 5 in the last 3600 secs - Sun Sep 18 20:34:09 2022
+82.197.210.50 # lfd: (mod_security) mod_security (id:920350) triggered by 82.197.210.50 (NL/Netherlands/Overijssel/Enschede/82-197-210-50.dsl.cambrium.nl/[AS25596 Cambrium IT Services B.V.]): 5 in the last 3600 secs - Mon Sep 19 12:27:40 2022
+248.26.178.10 # BFM: mod_security2=50 (-) - Tue Sep 20 09:08:05 2022
+185.142.236.41 # lfd: (mod_security) mod_security (id:920350) triggered by 185.142.236.41 (NL/Netherlands/North Holland/Amsterdam/guitar.census.shodan.io/[AS174 COGENT-174]): 5 in the last 3600 secs - Tue Sep 20 13:53:57 2022
+37.19.197.200 # lfd: (mod_security) mod_security (id:1100000) triggered by 37.19.197.200 (US/United States/New Jersey/-/unn-37-19-197-200.datapacket.com/[AS212238 Datacamp Limited]): 5 in the last 3600 secs - Tue Sep 20 14:44:58 2022
+20.196.209.4 # BFM: mod_security2=50 - Tue Sep 20 15:49:06 2022
+198.41.144.253 # lfd: (mod_security) mod_security (id:920350) triggered by 198.41.144.253 (US/United States/-/-/-/[AS132892 Cloudflare, Inc.]): 5 in the last 3600 secs - Wed Sep 21 14:18:54 2022
+52.91.43.0 # lfd: (mod_security) mod_security (id:1100000) triggered by 52.91.43.0 (US/United States/Virginia/Ashburn/ec2-52-91-43-0.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Thu Sep 22 10:24:26 2022
+176.9.41.169 # BFM: mod_security2=51 - Thu Sep 22 22:56:08 2022
+201.131.238.9 # lfd: (smtpauth) Failed SMTP AUTH login from 201.131.238.9 (MX/Mexico/Zacatecas/Fresnillo/-/[AS28432 Telecable del Mineral, S. A. de C.V.]): 5 in the last 3600 secs - Fri Sep 23 01:04:49 2022
+128.199.89.203 # lfd: (mod_security) mod_security (id:1100000) triggered by 128.199.89.203 (SG/Singapore/-/Singapore/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Fri Sep 23 12:33:59 2022
+20.13.130.49 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.13.130.49 (IE/Ireland/Leinster/Dublin/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Sep 23 20:11:27 2022
+20.56.6.179 # BFM: mod_security2=53 - Fri Sep 23 23:10:10 2022
+52.149.159.169 # lfd: (mod_security) mod_security (id:920350) triggered by 52.149.159.169 (US/United States/Virginia/Tappahannock/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Sat Sep 24 02:29:17 2022
+185.142.236.43 # lfd: (mod_security) mod_security (id:920350) triggered by 185.142.236.43 (NL/Netherlands/North Holland/Amsterdam/blue2.census.shodan.io/[AS174 COGENT-174]): 5 in the last 3600 secs - Sat Sep 24 08:56:44 2022
+15.235.12.96 # BFM: mod_security2=50 - Sat Sep 24 14:26:13 2022
+20.169.84.159 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.169.84.159 (US/United States/Arizona/Phoenix/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Sat Sep 24 15:21:40 2022
+54.162.148.194 # lfd: (CT) IP 54.162.148.194 (US/United States/Virginia/-/ec2-54-162-148-194.compute-1.amazonaws.com/[AS14618 AMAZON-AES]) found to have 426 connections - Sun Sep 25 00:06:03 2022
+64.225.59.44 # BFM: mod_security2=50 - Sun Sep 25 12:38:14 2022
+138.201.50.113 # lfd: (mod_security) mod_security (id:1100000) triggered by 138.201.50.113 (DE/Germany/Baden-Wurttemberg/Nagold/static.113.50.201.138.clients.your-server.de/[AS24940 Hetzner Online GmbH]): 5 in the last 3600 secs - Sun Sep 25 15:29:35 2022
+198.20.69.98 # lfd: (mod_security) mod_security (id:920350) triggered by 198.20.69.98 (US/United States/-/-/census2.shodan.io/[AS32475 SINGLEHOP-LLC]): 5 in the last 3600 secs - Sun Sep 25 16:38:41 2022
+71.6.167.142 # lfd: (mod_security) mod_security (id:920350) triggered by 71.6.167.142 (US/United States/-/-/census9.shodan.io/[AS10439 CARINET]): 5 in the last 3600 secs - Mon Sep 26 04:33:25 2022
+176.9.125.190 # BFM: mod_security2=63 - Mon Sep 26 05:18:16 2022
+51.132.222.228 # BFM: mod_security2=71 - Mon Sep 26 06:02:17 2022
+139.59.168.195 # lfd: (mod_security) mod_security (id:1100000) triggered by 139.59.168.195 (GB/United Kingdom/England/London/speeches.dont.youlovethat.company/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Mon Sep 26 12:15:09 2022
+202.191.104.159 # BFM: mod_security2=66 - Mon Sep 26 13:53:18 2022
+195.96.137.4 # lfd: (mod_security) mod_security (id:920440) triggered by 195.96.137.4 (US/United States/-/-/-/[AS400161 HAWAIIRESEARCH]): 5 in the last 3600 secs - Mon Sep 26 19:55:12 2022
+77.81.139.90 # BFM: exim1=100 - Tue Sep 27 06:58:15 2022
+20.198.222.157 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.198.222.157 (SG/Singapore/-/Singapore/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Tue Sep 27 18:09:44 2022
+165.22.45.9 # BFM: mod_security2=50 - Tue Sep 27 23:38:16 2022
+152.32.251.202 # BFM: mod_security2=316 - Wed Sep 28 12:17:06 2022
+109.70.100.85 # BFM: mod_security2=120 - Wed Sep 28 15:07:36 2022
+116.118.48.140 # BFM: mod_security2=56 - Wed Sep 28 15:07:37 2022
+117.242.230.56 # BFM: mod_security2=238 - Wed Sep 28 15:07:39 2022
+121.91.230.109 # BFM: mod_security2=509 - Wed Sep 28 15:07:41 2022
+128.199.163.44 # BFM: mod_security2=79 - Wed Sep 28 15:07:42 2022
+139.59.61.193 # BFM: mod_security2=187 - Wed Sep 28 15:07:43 2022
+143.198.129.222 # BFM: mod_security2=1955 - Wed Sep 28 15:07:45 2022
+147.139.133.15 # BFM: mod_security2=103 - Wed Sep 28 15:07:46 2022
+15.235.141.35 # BFM: mod_security2=1604 - Wed Sep 28 15:07:47 2022
+15.235.42.114 # BFM: mod_security2=4147 - Wed Sep 28 15:07:49 2022
+158.69.122.75 # BFM: mod_security2=556 - Wed Sep 28 15:07:50 2022
+161.35.229.155 # BFM: mod_security2=4693 - Wed Sep 28 15:07:51 2022
+162.243.140.82 # BFM: mod_security2=489 - Wed Sep 28 15:07:52 2022
+165.227.141.215 # BFM: mod_security2=50 - Wed Sep 28 15:07:53 2022
+167.172.23.19 # BFM: mod_security2=88 - Wed Sep 28 15:07:54 2022
+172.98.167.110 # BFM: mod_security2=394 - Wed Sep 28 15:07:56 2022
+174.64.199.79 # BFM: mod_security2=59 - Wed Sep 28 15:07:57 2022
+174.64.199.82 # BFM: mod_security2=116 - Wed Sep 28 15:07:58 2022
+178.237.189.190 # BFM: mod_security2=464 - Wed Sep 28 15:08:00 2022
+178.62.226.96 # BFM: mod_security2=289 - Wed Sep 28 15:08:02 2022
+185.214.187.104 # BFM: mod_security2=124 - Wed Sep 28 15:08:03 2022
+185.6.10.137 # BFM: mod_security2=400 - Wed Sep 28 15:08:04 2022
+192.169.250.203 # BFM: mod_security2=646 - Wed Sep 28 15:08:05 2022
+195.178.30.88 # BFM: mod_security2=1032 - Wed Sep 28 15:08:07 2022
+198.27.68.108 # BFM: mod_security2=182 - Wed Sep 28 15:08:08 2022
+2001:41d0:2:b1c8:: # BFM: mod_security2=137 - Wed Sep 28 15:08:10 2022
+206.189.118.100 # BFM: mod_security2=153 - Wed Sep 28 15:08:11 2022
+212.103.119.24 # BFM: mod_security2=194 - Wed Sep 28 15:08:12 2022
+2600:387:c:7216::9 # BFM: mod_security2=4352 - Wed Sep 28 15:08:15 2022
+2a03:4000:8:1fe::1 # BFM: mod_security2=91 - Wed Sep 28 15:08:18 2022
+34.87.156.253 # BFM: mod_security2=3067 - Wed Sep 28 15:08:19 2022
+37.44.238.2 # BFM: mod_security2=96 - Wed Sep 28 15:08:21 2022
+38.127.179.249 # BFM: mod_security2=113 - Wed Sep 28 15:08:23 2022
+45.129.201.238 # BFM: mod_security2=161 - Wed Sep 28 15:08:24 2022
+47.254.93.122 # BFM: mod_security2=1064 - Wed Sep 28 15:08:28 2022
+5.189.146.59 # BFM: mod_security2=52 - Wed Sep 28 15:08:30 2022
+54.37.82.34 # BFM: mod_security2=272 - Wed Sep 28 15:08:31 2022
+54.38.65.163 # BFM: mod_security2=102 - Wed Sep 28 15:08:32 2022
+54.39.49.42 # BFM: mod_security2=124 - Wed Sep 28 15:08:33 2022
+64.227.53.108 # BFM: mod_security2=149 - Wed Sep 28 15:08:35 2022
+82.115.21.188 # BFM: mod_security2=514 - Wed Sep 28 15:08:36 2022
+85.133.229.10 # BFM: mod_security2=66 - Wed Sep 28 15:08:38 2022
+95.179.151.77 # BFM: mod_security2=1061 - Wed Sep 28 15:08:40 2022
+51.142.246.100 # BFM: mod_security2=52 - Wed Sep 28 17:03:07 2022
+20.219.24.189 # BFM: mod_security2=60 - Wed Sep 28 18:26:06 2022
+20.235.105.97 # BFM: mod_security2=60 - Wed Sep 28 19:46:06 2022
+138.201.58.154 # BFM: mod_security2=60 - Wed Sep 28 20:26:06 2022
+20.150.146.176 # BFM: mod_security2=60 - Wed Sep 28 20:33:06 2022
+20.216.135.9 # BFM: mod_security2=60 - Thu Sep 29 02:05:07 2022
+157.230.36.54 # BFM: mod_security2=60 - Thu Sep 29 02:43:06 2022
+20.198.3.243 # BFM: mod_security2=60 - Thu Sep 29 04:00:07 2022
+159.89.44.17 # BFM: mod_security2=51 - Thu Sep 29 05:37:07 2022
+82.80.230.228 # BFM: mod_security2=59 - Thu Sep 29 05:47:07 2022
+35.178.78.200 # lfd: (mod_security) mod_security (id:1100000) triggered by 35.178.78.200 (GB/United Kingdom/England/London/ec2-35-178-78-200.eu-west-2.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Sep 29 06:35:34 2022
+13.50.105.58 # lfd: (mod_security) mod_security (id:1100000) triggered by 13.50.105.58 (SE/Sweden/Stockholm County/Stockholm/ec2-13-50-105-58.eu-north-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Sep 29 07:58:26 2022
+20.171.27.159 # BFM: mod_security2=64 - Thu Sep 29 08:35:07 2022
+20.216.162.201 # BFM: mod_security2=68 - Thu Sep 29 09:46:07 2022
+71.6.199.23 # lfd: (eximsyntax) Exim syntax errors from 71.6.199.23 (US/United States/California/San Diego/einstein.census.shodan.io/[AS10439 CARINET]): 5 in the last 3600 secs - Thu Sep 29 09:46:44 2022
+20.163.0.214 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.163.0.214 (US/United States/Arizona/Phoenix/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Thu Sep 29 10:06:10 2022
+20.41.114.57 # BFM: mod_security2=52 - Thu Sep 29 11:33:07 2022
+157.230.185.174 # BFM: mod_security2=60 - Thu Sep 29 14:05:07 2022
+20.77.83.15 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.77.83.15 (GB/United Kingdom/England/London/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Thu Sep 29 15:13:39 2022
+104.248.172.208 # lfd: (mod_security) mod_security (id:1100000) triggered by 104.248.172.208 (GB/United Kingdom/England/London/ubuntu.gz-s-4vcpu-8gb-intel-lon1-01/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Thu Sep 29 23:31:44 2022
+34.65.197.70 # lfd: (mod_security) mod_security (id:920350) triggered by 34.65.197.70 (CH/Switzerland/Zurich/Zurich/70.197.65.34.bc.googleusercontent.com/[AS396982 GOOGLE-CLOUD-PLATFORM]): 5 in the last 3600 secs - Fri Sep 30 02:18:18 2022
+20.235.123.184 # BFM: mod_security2=55 - Fri Sep 30 05:52:11 2022
+34.229.64.24 # lfd: (mod_security) mod_security (id:1100000) triggered by 34.229.64.24 (US/United States/Virginia/Ashburn/ec2-34-229-64-24.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Fri Sep 30 08:34:26 2022
+130.245.169.139 # BFM: mod_security2=85 - Fri Sep 30 08:51:46 2022
+20.14.82.98 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.14.82.98 (US/United States/Arizona/Phoenix/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Sep 30 12:38:45 2022
+89.157.244.173 # lfd: (mod_security) mod_security (id:920350) triggered by 89.157.244.173 (FR/France/Moselle/Sarreguemines/89-157-244-173.rev.numericable.fr/[AS15557 Societe Francaise Du Radiotelephone - SFR SA]): 5 in the last 3600 secs - Fri Sep 30 16:42:52 2022
+165.22.62.68 # BFM: mod_security2=60 - Fri Sep 30 19:03:26 2022
+85.215.165.69 # BFM: mod_security2=58 - Fri Sep 30 21:04:27 2022
+191.232.39.1 # BFM: mod_security2=64 - Sat Oct  1 03:24:27 2022
+2001:448a:5040:c6b2:5d85:40ef:bc32:d752 # BFM: mod_security2=71 - Sat Oct  1 03:24:28 2022
+90.152.205.237 # lfd: (mod_security) mod_security (id:920350) triggered by 90.152.205.237 (AT/Austria/Upper Austria/Linz/90-152-205-237.static.highway.a1.net/[AS8562 A1 Telekom Austria AG]): 5 in the last 3600 secs - Sat Oct  1 05:12:57 2022
+223.111.175.4 # BFM: mod_security2=51 - Sat Oct  1 19:43:11 2022
+51.144.107.251 # BFM: mod_security2=50 - Sat Oct  1 21:56:12 2022
+137.116.204.170 # lfd: (mod_security) mod_security (id:1100000) triggered by 137.116.204.170 (NL/Netherlands/North Holland/Amsterdam/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Sat Oct  1 23:41:13 2022
+4.240.90.249 # BFM: mod_security2=60 - Sun Oct  2 01:12:14 2022
+157.245.206.145 # BFM: mod_security2=60 - Sun Oct  2 02:27:15 2022
+217.194.133.216 # lfd: (smtpauth) Failed SMTP AUTH login from 217.194.133.216 (HK/Hong Kong/-/-/-/[AS133199 SonderCloud Limited]): 5 in the last 3600 secs - Sun Oct  2 03:05:58 2022
+143.198.32.83 # lfd: (mod_security) mod_security (id:1100000) triggered by 143.198.32.83 (CA/Canada/Ontario/Toronto/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Sun Oct  2 08:16:42 2022
+20.98.161.62 # lfd: (mod_security) mod_security (id:920350) triggered by 20.98.161.62 (US/United States/Iowa/Des Moines/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Sun Oct  2 13:07:40 2022
+20.219.164.129 # BFM: mod_security2=52 - Sun Oct  2 13:40:22 2022
+20.226.73.222 # BFM: mod_security2=60 - Sun Oct  2 20:49:27 2022
+139.99.71.242 # lfd: (mod_security) mod_security (id:1100000) triggered by 139.99.71.242 (SG/Singapore/-/Singapore/ip242.ip-139-99-71.net/[AS16276 OVH SAS]): 5 in the last 3600 secs - Sun Oct  2 20:56:18 2022
+2001:448a:5040:d26a:e9ac:6dad:e3a6:ca7f # BFM: mod_security2=71 - Mon Oct  3 02:34:31 2022
+78.114.13.194 # lfd: (mod_security) mod_security (id:920350) triggered by 78.114.13.194 (FR/France/Finistère/Guipavas/194.13.114.78.rev.sfr.net/[AS15557 Societe Francaise Du Radiotelephone - SFR SA]): 5 in the last 3600 secs - Mon Oct  3 02:43:03 2022
+2409:8c20:b281:14::101 # BFM: mod_security2=52 - Mon Oct  3 17:07:44 2022
+2607:5300:201:3100::4b95 # BFM: mod_security2=94 - Mon Oct  3 21:20:46 2022
+51.142.167.47 # BFM: mod_security2=60 - Tue Oct  4 06:30:55 2022
+109.74.55.155 # lfd: (mod_security) mod_security (id:1100000) triggered by 109.74.55.155 (HU/Hungary/Pest megye/Erdokertes/109-74-55-155.static.acetelecom.hu/[AS50261 ACE Telecom Kft]): 5 in the last 3600 secs - Tue Oct  4 07:02:55 2022
+173.213.84.106 # lfd: (mod_security) mod_security (id:1100000) triggered by 173.213.84.106 (US/United States/Florida/Tampa/173-213-84-106.static.hvvc.us/[AS29802 HVC-AS]): 5 in the last 3600 secs - Tue Oct  4 11:16:22 2022
+139.28.176.38 # lfd: (mod_security) mod_security (id:1100000) triggered by 139.28.176.38 (GB/United Kingdom/England/Manchester/-/-): 5 in the last 3600 secs - Tue Oct  4 14:57:09 2022
+78.47.155.168 # BFM: mod_security2=71 - Tue Oct  4 18:15:56 2022
+20.111.11.121 # BFM: mod_security2=50 - Wed Oct  5 07:20:57 2022
+46.161.27.156 # BFM: mod_security2=50 - Wed Oct  5 15:24:57 2022
+181.129.131.58 # lfd: (mod_security) mod_security (id:1100000) triggered by 181.129.131.58 (CO/Colombia/Departamento de Caldas/Manizales/static-bafo-181-129-131-58.une.net.co/[AS13489 EPM Telecomunicaciones S.A. E.S.P.]): 5 in the last 3600 secs - Wed Oct  5 20:00:18 2022
+4.236.170.8 # BFM: mod_security2=60 - Wed Oct  5 20:54:58 2022
+104.199.114.114 # BFM: mod_security2=60 - Thu Oct  6 10:16:00 2022
+104.196.233.33 # BFM: mod_security2=60 - Thu Oct  6 12:09:00 2022
+37.139.53.82 # BFM: mod_security2=50 - Thu Oct  6 17:51:19 2022
+20.18.70.207 # BFM: mod_security2=64 - Fri Oct  7 01:49:18 2022
+2001:448a:5040:4530:214a:36f5:f68:2578 # BFM: mod_security2=71 - Fri Oct  7 10:38:19 2022
+159.89.35.226 # BFM: mod_security2=50 - Fri Oct  7 14:45:19 2022
+167.71.195.243 # BFM: mod_security2=60 - Fri Oct  7 15:05:19 2022
+152.32.128.94 # BFM: mod_security2=268 - Sat Oct  8 09:45:11 2022
+128.1.136.56 # BFM: mod_security2=974 - Sun Oct  9 17:36:14 2022
+20.229.225.188 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.229.225.188 (NL/Netherlands/North Holland/Amsterdam/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Mon Oct 10 05:06:52 2022
+2409:8c20:b281:14::103 # BFM: mod_security2=71 - Mon Oct 10 06:40:17 2022
+45.163.205.69 # lfd: (smtpauth) Failed SMTP AUTH login from 45.163.205.69 (EC/Ecuador/Provincia de Los Rios/Ventanas/-/[AS267684 VISIONMAGICA SOCIEDAD ANONIMA]): 5 in the last 3600 secs - Mon Oct 10 08:01:22 2022
+3.138.102.34 # lfd: (mod_security) mod_security (id:1100000) triggered by 3.138.102.34 (US/United States/Ohio/Columbus/ec2-3-138-102-34.us-east-2.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Mon Oct 10 13:59:02 2022
+14.226.14.189 # BFM: mod_security2=53 - Mon Oct 10 16:07:17 2022
+52.229.115.240 # BFM: mod_security2=50 - Mon Oct 10 16:35:17 2022
+2409:8c20:b281:14::102 # BFM: mod_security2=55 - Mon Oct 10 20:16:19 2022
+52.141.49.83 # BFM: mod_security2=94 - Wed Oct 12 01:26:57 2022
+159.89.45.15 # BFM: mod_security2=50 - Wed Oct 12 03:01:57 2022
+167.172.70.118 # lfd: (mod_security) mod_security (id:1100000) triggered by 167.172.70.118 (SG/Singapore/-/Singapore/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Wed Oct 12 04:58:51 2022
+178.130.178.79 # lfd: (mod_security) mod_security (id:1100000) triggered by 178.130.178.79 (PS/Palestine/Ramallah/Ramallah/ADSL-178.130.178.79.mada.ps/[AS51407 Mada ALArab LTD]): 5 in the last 3600 secs - Wed Oct 12 13:04:41 2022
+5.189.173.235 # lfd: (mod_security) mod_security (id:1100000) triggered by 5.189.173.235 (DE/Germany/Bavaria/Nuremberg/vmi1033237.contaboserver.net/[AS51167 Contabo GmbH]): 5 in the last 3600 secs - Wed Oct 12 13:14:01 2022
+157.230.235.99 # lfd: (mod_security) mod_security (id:1100000) triggered by 157.230.235.99 (US/United States/New Jersey/North Bergen/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Wed Oct 12 18:33:00 2022
+2001:448a:5040:bfb3:cd62:3946:af67:4a9c # BFM: mod_security2=71 - Wed Oct 12 23:35:30 2022
+128.199.210.120 # lfd: (mod_security) mod_security (id:1100000) triggered by 128.199.210.120 (SG/Singapore/-/Singapore/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Wed Oct 12 23:39:04 2022
+20.196.146.172 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.196.146.172 (KR/South Korea/Seoul/Seoul/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Thu Oct 13 05:45:03 2022
+168.63.47.149 # BFM: mod_security2=71 - Thu Oct 13 07:19:31 2022
+40.121.143.154 # lfd: (mod_security) mod_security (id:1100000) triggered by 40.121.143.154 (US/United States/Virginia/Tappahannock/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Oct 14 02:14:36 2022
+20.163.154.66 # BFM: mod_security2=60 - Fri Oct 14 04:04:32 2022
+85.209.134.186 # lfd: (mod_security) mod_security (id:1100000) triggered by 85.209.134.186 (US/United States/Virginia/Ashburn/williamson-sparks.microradiant.online/-): 5 in the last 3600 secs - Fri Oct 14 04:50:21 2022
+178.128.82.230 # BFM: mod_security2=80 - Fri Oct 14 07:04:33 2022
+157.245.49.135 # BFM: mod_security2=51 - Fri Oct 14 09:34:33 2022
+20.5.177.239 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.5.177.239 (AU/Australia/New South Wales/Sydney/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Oct 14 11:37:38 2022
+4.236.144.175 # lfd: (mod_security) mod_security (id:1100000) triggered by 4.236.144.175 (US/United States/Virginia/Tappahannock/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Oct 14 16:50:37 2022
+76.164.198.173 # BFM: mod_security2=50 - Fri Oct 14 17:27:34 2022
+167.172.94.33 # BFM: mod_security2=60 - Fri Oct 14 17:45:34 2022
+44.200.109.151 # lfd: (mod_security) mod_security (id:1100000) triggered by 44.200.109.151 (US/United States/Virginia/Ashburn/ec2-44-200-109-151.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Sat Oct 15 03:42:29 2022
+167.172.90.14 # BFM: mod_security2=620 - Sat Oct 15 11:30:18 2022
+20.231.126.132 # BFM: mod_security2=160 - Sat Oct 15 11:30:20 2022
+51.195.216.255 # BFM: mod_security2=56 - Sat Oct 15 11:30:22 2022
+20.106.125.9 # BFM: mod_security2=70 - Sat Oct 15 13:49:35 2022
+3.110.63.182 # lfd: (mod_security) mod_security (id:1100000) triggered by 3.110.63.182 (IN/India/Maharashtra/Mumbai/ec2-3-110-63-182.ap-south-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sat Oct 15 19:10:51 2022
+20.203.170.248 # BFM: mod_security2=192 - Sat Oct 15 19:37:56 2022
+2001:448a:5040:abd7:515d:b0a1:ea7e:b768 # BFM: mod_security2=71 - Sun Oct 16 01:09:55 2022
+206.189.231.200 # BFM: mod_security2=52 - Sun Oct 16 01:29:55 2022
+118.37.88.12 # lfd: (mod_security) mod_security (id:920350) triggered by 118.37.88.12 (KR/South Korea/Gyeonggi-do/Gimpo-si/-/[AS4766 Korea Telecom]): 5 in the last 3600 secs - Sun Oct 16 09:04:19 2022
+20.251.168.24 # BFM: mod_security2=58 - Sun Oct 16 19:21:56 2022
+139.59.103.131 # BFM: mod_security2=60 - Sun Oct 16 20:37:56 2022
+20.232.23.192 # BFM: mod_security2=60 - Mon Oct 17 00:01:57 2022
+20.98.210.76 # BFM: mod_security2=60 - Mon Oct 17 00:18:57 2022
+18.143.146.252 # lfd: (mod_security) mod_security (id:1100000) triggered by 18.143.146.252 (SG/Singapore/-/Singapore/ec2-18-143-146-252.ap-southeast-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Mon Oct 17 00:43:09 2022
+51.11.191.48 # BFM: mod_security2=60 - Mon Oct 17 01:43:57 2022
+40.76.229.205 # BFM: mod_security2=60 - Mon Oct 17 06:53:58 2022
+45.139.105.197 # lfd: (smtpauth) Failed SMTP AUTH login from 45.139.105.197 (BG/Bulgaria/-/-/-/[AS138687 Xdeer Limited]): 5 in the last 3600 secs - Mon Oct 17 07:13:15 2022
+54.36.162.160 # BFM: mod_security2=50 - Mon Oct 17 10:56:59 2022
+2001:448a:5040:abd7:3c85:83b0:e6b0:39e7 # BFM: mod_security2=71 - Mon Oct 17 12:02:59 2022
+159.223.61.117 # BFM: mod_security2=60 - Mon Oct 17 15:34:59 2022
+167.172.90.23 # BFM: mod_security2=100 - Mon Oct 17 19:06:00 2022
+194.233.91.159 # BFM: mod_security2=60 - Mon Oct 17 19:21:00 2022
+194.26.192.251 # BFM: mod_security2=57 - Mon Oct 17 20:23:01 2022
+103.147.185.14 # BFM: mod_security2=64 - Tue Oct 18 00:38:01 2022
+117.187.173.4 # BFM: mod_security2=51 - Tue Oct 18 01:35:04 2022
+167.172.95.54 # BFM: mod_security2=60 - Tue Oct 18 01:42:01 2022
+4.240.72.129 # BFM: mod_security2=60 - Tue Oct 18 02:57:02 2022
+195.178.120.44 # BFM: mod_security2=80 - Tue Oct 18 05:34:02 2022
+20.86.21.162 # BFM: mod_security2=52 - Tue Oct 18 12:20:12 2022
+20.92.92.5 # BFM: mod_security2=60 - Tue Oct 18 16:20:12 2022
+20.5.58.119 # BFM: mod_security2=60 - Tue Oct 18 19:54:12 2022
+189.150.180.76 # lfd: (smtpauth) Failed SMTP AUTH login from 189.150.180.76 (MX/Mexico/Tabasco/Centro/dsl-189-150-180-76-dyn.prod-infinitum.com.mx/[AS8151 Uninet S.A. de C.V.]): 5 in the last 3600 secs - Wed Oct 19 01:17:35 2022
+35.216.244.6 # lfd: (mod_security) mod_security (id:920350) triggered by 35.216.244.6 (CH/Switzerland/Zurich/Zurich/6.244.216.35.bc.googleusercontent.com/[AS15169 GOOGLE]): 5 in the last 3600 secs - Wed Oct 19 02:30:42 2022
+58.17.6.9 # BFM: mod_security2=51 - Wed Oct 19 02:52:13 2022
+167.172.85.27 # BFM: mod_security2=80 - Wed Oct 19 02:58:13 2022
+109.206.241.251 # lfd: (smtpauth) Failed SMTP AUTH login from 109.206.241.251 (US/United States/Virginia/Ashburn/-/[AS211252 Delis LLC]): 5 in the last 3600 secs - Wed Oct 19 05:49:42 2022
+159.223.57.135 # BFM: mod_security2=60 - Wed Oct 19 07:13:10 2022
+20.121.42.72 # BFM: mod_security2=66 - Wed Oct 19 07:24:11 2022
+20.244.117.20 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.244.117.20 (IN/India/Maharashtra/Pune/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Wed Oct 19 09:47:04 2022
+177.229.229.191 # lfd: (smtpauth) Failed SMTP AUTH login from 177.229.229.191 (MX/Mexico/Jalisco/Guadalajara/customer-QRO-229-191.megared.net.mx/[AS13999 Mega Cable, S.A. de C.V.]): 5 in the last 3600 secs - Wed Oct 19 20:25:23 2022
+136.243.111.17 # BFM: mod_security2=50 - Wed Oct 19 22:21:11 2022
+195.201.175.102 # BFM: mod_security2=50 - Wed Oct 19 22:59:11 2022
+148.251.238.57 # BFM: mod_security2=50 - Thu Oct 20 00:42:12 2022
+251.132.227.80 # BFM: mod_security2=72 (-) - Thu Oct 20 05:10:15 2022
+4.224.80.114 # BFM: mod_security2=80 - Thu Oct 20 15:18:15 2022
+20.78.54.96 # BFM: mod_security2=60 - Thu Oct 20 15:56:15 2022
+128.199.84.105 # BFM: mod_security2=60 - Fri Oct 21 11:09:08 2022
+4.227.221.194 # BFM: mod_security2=60 - Fri Oct 21 12:20:08 2022
+94.63.40.91 # lfd: (mod_security) mod_security (id:920350) triggered by 94.63.40.91 (PT/Portugal/Leiria/Alcobaça/91.40.63.94.rev.vodafone.pt/[AS12353 Vodafone Portugal - Communicacoes Pessoais S.A.]): 5 in the last 3600 secs - Fri Oct 21 17:35:30 2022
+23.96.124.120 # BFM: mod_security2=76 - Sat Oct 22 05:27:10 2022
+54.219.130.78 # lfd: (mod_security) mod_security (id:1100000) triggered by 54.219.130.78 (US/United States/California/San Jose/ec2-54-219-130-78.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sat Oct 22 11:58:34 2022
+187.232.17.129 # lfd: (smtpauth) Failed SMTP AUTH login from 187.232.17.129 (MX/Mexico/Aguascalientes/Aguascalientes/dsl-187-232-17-129-dyn.prod-infinitum.com.mx/[AS8151 Uninet S.A. de C.V.]): 5 in the last 3600 secs - Sat Oct 22 12:15:45 2022
+51.142.117.12 # BFM: mod_security2=60 - Sun Oct 23 00:14:13 2022
+212.23.222.151 # BFM: mod_security2=65 - Sun Oct 23 05:12:13 2022
+102.10.252.81 # BFM: mod_security2=52 - Sun Oct 23 05:32:13 2022
+109.73.77.18 # BFM: mod_security2=60 - Sun Oct 23 22:22:15 2022
+157.230.40.172 # BFM: mod_security2=60 - Mon Oct 24 01:14:15 2022
+188.166.222.109 # BFM: mod_security2=60 - Mon Oct 24 08:10:16 2022
+217.182.15.147 # lfd: (mod_security) mod_security (id:1100000) triggered by 217.182.15.147 (FR/France/-/-/ip147.ip-217-182-15.eu/[AS16276 OVH SAS]): 5 in the last 3600 secs - Mon Oct 24 16:10:07 2022
+138.128.43.117 # BFM: mod_security2=50 - Mon Oct 24 19:23:59 2022
+104.144.182.177 # BFM: mod_security2=50 - Tue Oct 25 00:07:59 2022
+20.235.107.143 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.235.107.143 (IN/India/Maharashtra/Pune/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Tue Oct 25 00:55:24 2022
+187.190.184.16 # lfd: (smtpauth) Failed SMTP AUTH login from 187.190.184.16 (MX/Mexico/Mexico City/Mexico City/fixed-187-190-184-16.totalplay.net/[AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV]): 5 in the last 3600 secs - Tue Oct 25 01:45:11 2022
+138.199.10.18 # lfd: (mod_security) mod_security (id:1100000) triggered by 138.199.10.18 (US/United States/New York/New York/unn-138-199-10-18.datapacket.com/[AS212238 Datacamp Limited]): 5 in the last 3600 secs - Tue Oct 25 04:40:26 2022
+23.250.36.199 # BFM: mod_security2=50 - Tue Oct 25 07:11:59 2022
+23.254.48.99 # BFM: mod_security2=50 - Tue Oct 25 07:40:00 2022
+198.46.203.203 # BFM: mod_security2=50 - Tue Oct 25 10:29:01 2022
+216.41.235.190 # BFM: mod_security2=50 - Tue Oct 25 10:51:01 2022
+5.181.86.92 # BFM: mod_security2=80 - Tue Oct 25 11:03:00 2022
+20.24.207.244 # BFM: mod_security2=60 - Tue Oct 25 14:58:00 2022
+104.227.50.230 # BFM: mod_security2=50 - Tue Oct 25 15:21:00 2022
+23.236.156.211 # BFM: mod_security2=50 - Tue Oct 25 16:20:00 2022
+20.189.127.60 # BFM: mod_security2=60 - Tue Oct 25 17:50:01 2022
+104.227.60.145 # BFM: mod_security2=50 - Tue Oct 25 21:15:00 2022
+107.175.132.116 # BFM: mod_security2=50 - Tue Oct 25 23:24:01 2022
+107.175.216.60 # BFM: mod_security2=50 - Tue Oct 25 23:37:01 2022
+216.226.148.165 # BFM: mod_security2=60 - Wed Oct 26 00:35:02 2022
+104.227.168.162 # BFM: mod_security2=50 - Wed Oct 26 00:44:01 2022
+3.234.252.72 # lfd: (mod_security) mod_security (id:920350) triggered by 3.234.252.72 (US/United States/Virginia/Ashburn/ec2-3-234-252-72.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Wed Oct 26 00:46:49 2022
+198.23.134.102 # BFM: mod_security2=50 - Wed Oct 26 01:26:01 2022
+172.245.28.70 # BFM: mod_security2=50 - Wed Oct 26 01:37:01 2022
+107.173.1.177 # BFM: mod_security2=50 - Wed Oct 26 02:16:01 2022
+104.227.190.220 # BFM: mod_security2=50 - Wed Oct 26 02:38:01 2022
+104.144.129.202 # BFM: mod_security2=50 - Wed Oct 26 03:11:01 2022
+23.95.200.190 # BFM: mod_security2=50 - Wed Oct 26 03:11:03 2022
+69.4.81.84 # BFM: mod_security2=50 - Wed Oct 26 03:33:01 2022
+192.227.172.190 # BFM: mod_security2=50 - Wed Oct 26 03:38:03 2022
+104.144.6.231 # BFM: mod_security2=50 - Wed Oct 26 05:46:02 2022
+107.152.145.129 # BFM: mod_security2=50 - Wed Oct 26 06:30:03 2022
+104.227.89.127 # BFM: mod_security2=50 - Wed Oct 26 07:07:02 2022
+192.186.164.104 # BFM: mod_security2=50 - Wed Oct 26 07:12:02 2022
+104.227.62.140 # BFM: mod_security2=50 - Wed Oct 26 08:46:02 2022
+45.57.212.160 # BFM: mod_security2=50 - Wed Oct 26 08:59:02 2022
+104.144.20.154 # BFM: mod_security2=50 - Wed Oct 26 09:11:02 2022
+23.254.6.105 # BFM: mod_security2=50 - Wed Oct 26 10:01:03 2022
+192.210.181.244 # BFM: mod_security2=50 - Wed Oct 26 10:44:05 2022
+104.168.100.170 # BFM: mod_security2=50 - Wed Oct 26 11:03:02 2022
+23.95.235.68 # BFM: mod_security2=50 - Wed Oct 26 11:14:05 2022
+20.213.19.152 # BFM: mod_security2=60 - Wed Oct 26 15:06:03 2022
+23.250.89.148 # BFM: mod_security2=50 - Wed Oct 26 15:10:04 2022
+167.71.203.50 # BFM: mod_security2=60 - Wed Oct 26 15:30:03 2022
+192.241.89.179 # BFM: mod_security2=50 - Wed Oct 26 15:54:05 2022
+104.144.171.11 # BFM: mod_security2=50 - Wed Oct 26 16:12:03 2022
+107.152.242.153 # BFM: mod_security2=50 - Wed Oct 26 16:55:04 2022
+23.229.92.171 # BFM: mod_security2=50 - Wed Oct 26 16:58:03 2022
+23.94.21.164 # BFM: mod_security2=50 - Wed Oct 26 17:07:04 2022
+104.144.225.222 # BFM: mod_security2=50 - Wed Oct 26 19:41:04 2022
+104.144.161.17 # BFM: mod_security2=50 - Wed Oct 26 20:42:03 2022
+198.20.182.222 # BFM: mod_security2=50 - Wed Oct 26 23:41:05 2022
+107.175.109.134 # BFM: mod_security2=50 - Wed Oct 26 23:53:04 2022
+172.245.194.164 # BFM: mod_security2=50 - Thu Oct 27 00:24:04 2022
+138.128.61.148 # BFM: mod_security2=50 - Thu Oct 27 00:46:04 2022
+104.227.90.212 # BFM: mod_security2=50 - Thu Oct 27 01:21:04 2022
+23.254.3.184 # BFM: mod_security2=50 - Thu Oct 27 01:35:06 2022
+104.144.254.30 # BFM: mod_security2=50 - Thu Oct 27 01:47:04 2022
+138.128.30.158 # BFM: mod_security2=50 - Thu Oct 27 01:52:05 2022
+138.128.109.230 # BFM: mod_security2=50 - Thu Oct 27 02:00:04 2022
+107.175.2.97 # BFM: mod_security2=50 - Thu Oct 27 02:39:04 2022
+104.227.59.242 # BFM: mod_security2=50 - Thu Oct 27 04:32:05 2022
+198.12.81.160 # BFM: mod_security2=50 - Thu Oct 27 05:29:06 2022
+108.174.50.183 # BFM: mod_security2=50 - Thu Oct 27 06:46:06 2022
+104.144.18.161 # BFM: mod_security2=50 - Thu Oct 27 06:57:05 2022
+138.128.0.248 # BFM: mod_security2=50 - Thu Oct 27 07:09:05 2022
+35.182.5.37 # lfd: (mod_security) mod_security (id:1100000) triggered by 35.182.5.37 (CA/Canada/Quebec/Montreal/ec2-35-182-5-37.ca-central-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Oct 27 07:12:41 2022
+45.72.109.89 # BFM: mod_security2=50 - Thu Oct 27 07:21:09 2022
+23.250.13.177 # BFM: mod_security2=50 - Thu Oct 27 07:50:07 2022
+23.254.87.250 # BFM: mod_security2=50 - Thu Oct 27 07:56:07 2022
+138.128.108.59 # BFM: mod_security2=50 - Thu Oct 27 08:15:05 2022
+107.172.73.62 # BFM: mod_security2=50 - Thu Oct 27 08:26:05 2022
+107.152.241.251 # BFM: mod_security2=50 - Thu Oct 27 08:37:06 2022
+23.250.3.195 # BFM: mod_security2=50 - Thu Oct 27 08:44:06 2022
+107.172.98.35 # BFM: mod_security2=50 - Thu Oct 27 09:59:06 2022
+104.144.165.63 # BFM: mod_security2=50 - Thu Oct 27 10:01:06 2022
+23.236.171.143 # BFM: mod_security2=50 - Thu Oct 27 12:13:17 2022
+199.21.115.53 # BFM: mod_security2=50 - Thu Oct 27 12:16:17 2022
+23.236.214.35 # BFM: mod_security2=50 - Thu Oct 27 12:42:18 2022
+52.234.139.163 # BFM: mod_security2=60 - Thu Oct 27 13:15:16 2022
+23.250.21.155 # BFM: mod_security2=50 - Thu Oct 27 13:38:16 2022
+23.94.68.153 # BFM: mod_security2=50 - Thu Oct 27 13:49:16 2022
+67.218.4.197 # BFM: mod_security2=50 - Thu Oct 27 14:21:17 2022
+104.227.54.136 # BFM: mod_security2=50 - Thu Oct 27 15:58:16 2022
+172.245.11.85 # BFM: mod_security2=50 - Thu Oct 27 17:11:17 2022
+107.173.18.114 # BFM: mod_security2=50 - Thu Oct 27 18:39:16 2022
+23.229.81.169 # BFM: mod_security2=50 - Thu Oct 27 18:39:21 2022
+50.18.4.37 # lfd: (mod_security) mod_security (id:1100000) triggered by 50.18.4.37 (US/United States/California/San Jose/ec2-50-18-4-37.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Oct 27 19:02:13 2022
+20.28.159.67 # BFM: mod_security2=60 - Thu Oct 27 19:31:16 2022
+192.198.105.245 # BFM: mod_security2=50 - Thu Oct 27 19:38:17 2022
+107.175.209.246 # BFM: mod_security2=50 - Thu Oct 27 21:09:17 2022
+13.38.6.58 # lfd: (mod_security) mod_security (id:1100000) triggered by 13.38.6.58 (FR/France/Île-de-France/Paris/ec2-13-38-6-58.eu-west-3.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Oct 27 22:42:05 2022
+104.144.7.143 # BFM: mod_security2=50 - Thu Oct 27 23:27:21 2022
+23.94.87.194 # BFM: mod_security2=50 - Fri Oct 28 02:13:21 2022
+192.198.110.175 # BFM: mod_security2=50 - Fri Oct 28 02:25:20 2022
+104.227.49.242 # BFM: mod_security2=50 - Fri Oct 28 02:49:21 2022
+23.250.37.60 # BFM: mod_security2=50 - Fri Oct 28 04:18:21 2022
+107.173.21.123 # BFM: mod_security2=50 - Fri Oct 28 05:18:20 2022
+192.186.182.1 # BFM: mod_security2=50 - Fri Oct 28 08:37:22 2022
+107.173.202.157 # BFM: mod_security2=50 - Fri Oct 28 10:19:22 2022
+107.152.245.65 # BFM: mod_security2=50 - Fri Oct 28 10:57:20 2022
+104.144.177.253 # BFM: mod_security2=50 - Fri Oct 28 11:15:22 2022
+104.227.88.65 # BFM: mod_security2=50 - Fri Oct 28 11:26:23 2022
+23.95.117.211 # BFM: mod_security2=51 - Fri Oct 28 13:10:21 2022
+104.144.172.57 # BFM: mod_security2=50 - Fri Oct 28 16:56:20 2022
+107.173.177.222 # BFM: mod_security2=50 - Fri Oct 28 18:57:20 2022
+138.128.6.108 # BFM: mod_security2=50 - Fri Oct 28 19:28:22 2022
+23.250.105.7 # BFM: mod_security2=50 - Fri Oct 28 19:32:23 2022
+192.227.191.204 # BFM: mod_security2=51 - Fri Oct 28 19:44:28 2022
+20.121.46.67 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.121.46.67 (US/United States/Virginia/Tappahannock/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Oct 28 21:40:34 2022
+159.65.138.70 # BFM: mod_security2=60 - Fri Oct 28 22:26:21 2022
+104.227.107.247 # BFM: mod_security2=50 - Sat Oct 29 03:38:21 2022
+138.128.51.193 # BFM: mod_security2=50 - Sat Oct 29 08:46:24 2022
+138.255.180.36 # lfd: (mod_security) mod_security (id:920350) triggered by 138.255.180.36 (BR/Brazil/Amazonas/Manaquiri/-/[AS263987 E. DA SILVA PROVEDORES DE TELECOMUNICACOES EIRELI]): 5 in the last 3600 secs - Sat Oct 29 10:12:41 2022
+54.176.152.154 # lfd: (mod_security) mod_security (id:1100000) triggered by 54.176.152.154 (US/United States/California/San Jose/ec2-54-176-152-154.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sat Oct 29 15:04:26 2022
+18.210.24.53 # BFM: mod_security2=80 - Sat Oct 29 17:55:24 2022
+157.245.54.207 # BFM: mod_security2=120 - Sat Oct 29 19:13:24 2022
+104.227.187.183 # BFM: mod_security2=50 - Sat Oct 29 19:38:25 2022
+3.6.91.140 # lfd: (mod_security) mod_security (id:920350) triggered by 3.6.91.140 (IN/India/Maharashtra/Mumbai/ec2-3-6-91-140.ap-south-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sat Oct 29 19:47:00 2022
+107.152.188.15 # BFM: mod_security2=50 - Sat Oct 29 22:50:24 2022
+157.245.210.167 # BFM: mod_security2=50 - Sat Oct 29 23:46:26 2022
+189.164.143.178 # lfd: (smtpauth) Failed SMTP AUTH login from 189.164.143.178 (MX/Mexico/Puebla/Puebla City/dsl-189-164-143-178-dyn.prod-infinitum.com.mx/[AS8151 Uninet S.A. de C.V.]): 5 in the last 3600 secs - Sat Oct 29 23:49:12 2022
+195.26.25.254 # lfd: (mod_security) mod_security (id:920350) triggered by 195.26.25.254 (CZ/Czechia/Pardubice District/Holice/cl-254.kvetakov.net/[AS47232 ISP Alliance a.s.]): 5 in the last 3600 secs - Sun Oct 30 03:02:39 2022
+3.209.82.147 # lfd: (mod_security) mod_security (id:930130) triggered by 3.209.82.147 (US/United States/Virginia/Ashburn/ec2-3-209-82-147.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Sun Oct 30 11:33:09 2022
+189.216.43.133 # lfd: (smtpauth) Failed SMTP AUTH login from 189.216.43.133 (MX/Mexico/México/Toluca/customer-189-216-43-133.cablevision.net.mx/[AS28548 Cablevision, S.A. de C.V.]): 5 in the last 3600 secs - Sun Oct 30 11:36:54 2022
+122.128.106.155 # lfd: (smtpauth) Failed SMTP AUTH login from 122.128.106.155 (HK/Hong Kong/Central and Western District/Central/122.128.106.155.layerdns.com/[AS133380 Layerstack Limited]): 5 in the last 3600 secs - Sun Oct 30 15:14:51 2022
+193.37.255.146 # lfd: 193.37.255.146 (SK/Slovakia/Bratislava/Bratislava/-/[AS9009 M247 Europe SRL]), 7 distributed smtpauth attacks on account [test] in the last 3600 secs - Sun Oct 30 15:35:37 2022
+157.245.114.5 # BFM: mod_security2=50 - Sun Oct 30 16:03:26 2022
+107.172.146.9 # BFM: mod_security2=50 - Mon Oct 31 00:46:28 2022
+107.152.161.170 # BFM: mod_security2=50 - Mon Oct 31 17:18:16 2022
+107.152.163.207 # BFM: mod_security2=50 - Mon Oct 31 18:36:13 2022
+34.239.179.67 # lfd: (mod_security) mod_security (id:920350) triggered by 34.239.179.67 (US/United States/Virginia/Ashburn/ec2-34-239-179-67.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Tue Nov  1 18:03:57 2022
+103.192.80.14 # BFM: mod_security2=60 - Wed Nov  2 17:56:17 2022
+13.82.110.124 # BFM: mod_security2=60 - Thu Nov  3 05:03:20 2022
+51.132.143.225 # BFM: mod_security2=60 - Thu Nov  3 11:34:22 2022
+20.73.251.129 # BFM: mod_security2=60 - Fri Nov  4 02:24:26 2022
+52.43.217.59 # BFM: mod_security2=60 - Fri Nov  4 06:59:26 2022
+103.153.60.218 # lfd: (smtpauth) Failed SMTP AUTH login from 103.153.60.218 (ID/Indonesia/-/-/-/[AS140456 PT Era Awan Digital]): 5 in the last 3600 secs - Fri Nov  4 09:04:04 2022
+20.210.124.38 # lfd: (mod_security) mod_security (id:1100000) triggered by 20.210.124.38 (JP/Japan/Tokyo/Tokyo/-/[AS8075 MICROSOFT-CORP-MSN-AS-BLOCK]): 5 in the last 3600 secs - Fri Nov  4 22:12:14 2022
+104.144.175.9 # BFM: mod_security2=50 - Fri Nov  4 22:28:34 2022
+20.92.254.69 # BFM: mod_security2=60 - Sat Nov  5 14:40:45 2022
+3.128.186.210 # BFM: mod_security2=60 - Sun Nov  6 06:46:00 2022
+54.219.169.141 # lfd: (mod_security) mod_security (id:1100000) triggered by 54.219.169.141 (US/United States/California/San Jose/ec2-54-219-169-141.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sun Nov  6 11:24:54 2022
+165.22.61.157 # BFM: mod_security2=59 - Sun Nov  6 19:52:13 2022
+89.162.1.23 # lfd: (mod_security) mod_security (id:920350) triggered by 89.162.1.23 (NO/Norway/Nordland/Bodø/89-162-23-1.fiber.signal.no/[AS29695 Altibox AS]): 5 in the last 3600 secs - Mon Nov  7 03:02:49 2022
+68.183.181.15 # BFM: mod_security2=60 - Mon Nov  7 09:44:14 2022
+216.244.66.231 # BFM: mod_security2=50 - Mon Nov  7 16:34:14 2022
+82.7.142.57 # lfd: (mod_security) mod_security (id:920350) triggered by 82.7.142.57 (GB/United Kingdom/Cheshire East/Macclesfield/cpc126994-macc4-2-0-cust56.1-3.cable.virginm.net/[AS5089 Virgin Media Limited]): 5 in the last 3600 secs - Tue Nov  8 22:04:05 2022
+139.59.125.186 # BFM: mod_security2=60 - Wed Nov  9 01:29:19 2022
+206.189.39.228 # BFM: mod_security2=60 - Wed Nov  9 18:43:24 2022
+187.190.67.126 # lfd: (smtpauth) Failed SMTP AUTH login from 187.190.67.126 (MX/Mexico/Sinaloa/Culiacán/fixed-187-190-67-126.totalplay.net/[AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV]): 5 in the last 3600 secs - Wed Nov  9 21:58:14 2022
+147.182.212.63 # BFM: mod_security2=96 - Wed Nov  9 22:42:24 2022
+187.190.28.159 # lfd: (smtpauth) Failed SMTP AUTH login from 187.190.28.159 (MX/Mexico/Mexico City/Mexico City/fixed-187-190-28-159.totalplay.net/[AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV]): 5 in the last 3600 secs - Thu Nov 10 00:02:22 2022
+18.117.140.106 # lfd: (mod_security) mod_security (id:920350) triggered by 18.117.140.106 (US/United States/Ohio/Columbus/ec2-18-117-140-106.us-east-2.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Thu Nov 10 01:58:01 2022
+134.122.101.254 # BFM: mod_security2=59 - Thu Nov 10 03:41:25 2022
+104.248.170.2 # BFM: mod_security2=66 - Thu Nov 10 13:36:28 2022
+189.143.97.138 # lfd: (smtpauth) Failed SMTP AUTH login from 189.143.97.138 (MX/Mexico/Guerrero/Acapulco de Juárez/dsl-189-143-97-138-dyn.prod-infinitum.com.mx/[AS8151 Uninet S.A. de C.V.]): 5 in the last 3600 secs - Thu Nov 10 22:21:35 2022
+37.139.128.185 # lfd: (smtpauth) Failed SMTP AUTH login from 37.139.128.185 (US/United States/Virginia/Ashburn/-/[AS211252 Delis LLC]): 5 in the last 3600 secs - Fri Nov 11 05:46:39 2022
+20.92.127.52 # BFM: mod_security2=60 - Fri Nov 11 09:28:39 2022
+138.197.11.194 # BFM: mod_security2=54 - Fri Nov 11 09:59:39 2022
+45.55.63.158 # BFM: mod_security2=54 - Fri Nov 11 10:51:38 2022
+139.59.69.195 # lfd: (mod_security) mod_security (id:1100000) triggered by 139.59.69.195 (IN/India/Karnataka/Bengaluru/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Fri Nov 11 16:56:00 2022
+200.106.166.250 # lfd: (smtpauth) Failed SMTP AUTH login from 200.106.166.250 (MX/Mexico/Querétaro/San Juan del Río/-/[AS28458 IENTC S DE RL DE CV]): 5 in the last 3600 secs - Sat Nov 12 00:31:14 2022
+54.183.172.7 # lfd: (mod_security) mod_security (id:1100000) triggered by 54.183.172.7 (US/United States/California/San Jose/ec2-54-183-172-7.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Sat Nov 12 10:39:33 2022
+54.193.175.230 # BFM: mod_security2=54 - Sat Nov 12 12:22:00 2022
+20.29.116.56 # BFM: mod_security2=60 - Sat Nov 12 12:55:00 2022
+159.65.56.244 # BFM: mod_security2=53 - Sat Nov 12 18:17:06 2022
+20.232.23.128 # BFM: mod_security2=60 - Sun Nov 13 04:40:14 2022
+169.150.218.76 # BFM: mod_security2=54 - Sun Nov 13 10:27:13 2022
+3.84.202.91 # lfd: (mod_security) mod_security (id:1100000) triggered by 3.84.202.91 (US/United States/Virginia/Ashburn/ec2-3-84-202-91.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Mon Nov 14 01:01:35 2022
+167.71.95.140 # BFM: mod_security2=51 - Mon Nov 14 01:35:14 2022
+167.99.74.252 # lfd: (mod_security) mod_security (id:920170) triggered by 167.99.74.252 (SG/Singapore/-/Singapore/-/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Mon Nov 14 16:47:45 2022
+141.98.11.67 # lfd: (smtpauth) Failed SMTP AUTH login from 141.98.11.67 (LT/Lithuania/-/-/grieving.medyamol.com/[AS209605 UAB Host Baltic]): 5 in the last 3600 secs - Tue Nov 15 23:21:44 2022
+52.53.201.172 # lfd: (mod_security) mod_security (id:1100000) triggered by 52.53.201.172 (US/United States/California/San Jose/ec2-52-53-201-172.us-west-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Wed Nov 16 07:59:20 2022
+35.156.142.222 # lfd: (mod_security) mod_security (id:1100000) triggered by 35.156.142.222 (DE/Germany/Hesse/Frankfurt am Main/ec2-35-156-142-222.eu-central-1.compute.amazonaws.com/[AS16509 AMAZON-02]): 5 in the last 3600 secs - Wed Nov 16 08:20:36 2022
+18.144.59.32 # BFM: mod_security2=54 - Wed Nov 16 10:15:23 2022
+24.199.84.134 # BFM: mod_security2=142 - Wed Nov 16 10:15:27 2022
+40.121.46.217 # BFM: mod_security2=60 - Wed Nov 16 10:15:28 2022
+34.239.118.173 # lfd: (smtpauth) Failed SMTP AUTH login from 34.239.118.173 (US/United States/Virginia/Ashburn/ec2-34-239-118-173.compute-1.amazonaws.com/[AS14618 AMAZON-AES]): 5 in the last 3600 secs - Thu Nov 17 00:21:09 2022
+157.230.182.7 # lfd: (mod_security) mod_security (id:1100000) triggered by 157.230.182.7 (US/United States/New Jersey/North Bergen/frugal-manatee-ocutyjcsjucnegdypikz.wnext.app/[AS14061 DIGITALOCEAN-ASN]): 5 in the last 3600 secs - Thu Nov 17 06:26:56 2022
